@@ -1,0 +1,7 @@
+{
+  "name": "ionic-travis-gh-pages",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
